@@ -1,8 +1,5 @@
 //
-//  AppDelegate.h
-//  UICollectionViewWorkshopApp
-//
-//  Created by Maciej Oczko on 22.07.2014.
+//  Created by Maciej Oczko.
 //  Copyright (c) 2014 Mobile Workshops. All rights reserved.
 //
 
@@ -10,6 +7,6 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window;
+@property(strong, nonatomic) UIWindow *window;
 
 @end
